@@ -9,4 +9,4 @@ export const Button = ({ buttonClass, clickHandler, text }) => (
   </button>
 );
 
-export default Button;s
+export default Button;
